@@ -12,6 +12,9 @@
     "name": "Murugappan M",
     "url": "https://murugu-21.github.io/"
   },
+  "publishConfig": {
+    "@murugu_21:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "build": "tsc",
     "prepublish": "tsc"
