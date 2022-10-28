@@ -1,6 +1,6 @@
 {
   "name": "rate-limit-concurrent",
-  "version": "0.0.11",
+  "version": "1.0.0",
   "main": "./lib/main.js",
   "types": "./lib/main.d.ts",
   "author": {
