@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "lib",
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "esModuleInterop": true,
+    "target": "es5",
+    "module": "commonjs",
+    "declaration": true,
+    "lib": ["es2017", "es7", "es6", "dom"]
+  },
+  "include": ["src"]
+}

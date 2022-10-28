@@ -1,0 +1,19 @@
+{
+  "name": "rate-limit-concurrent",
+  "version": "0.0.1",
+  "main": "./lib/main.js",
+  "types": "./lib/main.d.ts",
+  "author": {
+    "email": "murugu2001@gmail.com",
+    "name": "Murugappan M",
+    "url": "https://murugu-21.github.io/"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "tsc"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "next"
+  }
+}
